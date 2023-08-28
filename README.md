@@ -1,4 +1,4 @@
-#NUMBER SHIFTING GAME
+/*#NUMBER SHIFTING GAME
 You are given a 4x4 matrix with random values filled form 1 to 15.
 
 10 7  5  3
@@ -24,4 +24,4 @@ Winning Situation :
 1   2  3  4 
 5   6  7  8
 9  10  11 12
-13 14  15
+13 14  15*/
