@@ -1,4 +1,6 @@
-/*#NUMBER SHIFTING GAME
+/*#NUMBER SHIFTING GAME(project name)
+
+
 You are given a 4x4 matrix with random values filled form 1 to 15.
 
 10 7  5  3
